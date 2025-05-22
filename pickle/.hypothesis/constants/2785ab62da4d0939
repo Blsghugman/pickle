@@ -1,0 +1,4 @@
+# file: D:\Studying\SC\pickle\utils\sample_objects.py
+# hypothesis_version: 6.131.9
+
+[3.14159, 123, '-inf', 'a', 'apple', 'b', 'banana', 'cherry', 'error', 'hello world', 'inf', 'nan', 'slot', 'x', 'y']

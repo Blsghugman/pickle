@@ -1,0 +1,4 @@
+# file: D:\Studying\SC\pickle\run_tests.py
+# hypothesis_version: 6.131.16
+
+['--capture=tee-sys', '--maxfail=5', '--tb=short', '-v', '__main__', 'test_results', 'tests/']
